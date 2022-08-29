@@ -1,0 +1,77 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,C.A. 2315,20.575,,S
+1093,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,347080,14.4,,S
+1173,3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,S
+1199,3,"Aks, Master. Philip Frank",male,0.83,0,1,392091,9.35,,S
+1142,2,"West, Miss. Barbara J",female,0.92,1,2,C.A. 34651,27.75,,S
+1009,3,"Sandstrom, Miss. Beatrice Irene",female,1,1,1,PP 9549,16.7,G6,S
+981,2,"Wells, Master. Ralph Lester",male,2,1,1,29103,23,,S
+1301,3,"Peacock, Miss. Treasteall",female,3,1,1,SOTON/O.Q. 3101315,13.775,,S
+1271,3,"Asplund, Master. Carl Edgar",male,5,4,2,347077,31.3875,,S
+972,3,"Boulos, Master. Akar",male,6,1,1,2678,15.2458,,C
+1053,3,"Touma, Master. Georges Youssef",male,7,1,1,2650,15.2458,,C
+1086,2,"Drew, Master. Marshall Brines",male,8,0,2,28220,32.5,,S
+913,3,"Olsen, Master. Artur Karl",male,9,0,1,C 17368,3.1708,,S
+947,3,"Rice, Master. Albert",male,10,4,1,382652,29.125,,Q
+1084,3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,S
+1012,2,"Watt, Miss. Bertha J",female,12,0,0,C.A. 33595,15.75,,S
+956,1,"Ryerson, Master. John Borie",male,13,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+897,3,"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,,S
+1252,3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,S
+1067,2,"Brown, Miss. Edith Eileen",female,15,0,2,29750,39,,S
+996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16,1,1,2625,8.5167,,C
+952,3,"Dika, Mr. Mirko",male,17,0,0,349232,7.8958,,S
+900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,,C
+1005,3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,Q
+1150,2,"Bentham, Miss. Lilian W",female,19,0,0,28404,13,,S
+944,2,"Hocking, Miss. Ellen Nellie""""",female,20,2,1,29105,23,,S
+901,3,"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,,S
+919,3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,C
+904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,1,0,21228,82.2667,B45,S
+907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,1,0,SC/PARIS 2167,27.7208,,C
+930,3,"Sap, Mr. Julius",male,25,0,0,345768,9.5,,S
+1273,3,"Foley, Mr. Joseph",male,26,0,0,330910,7.8792,,Q
+1028,3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,C
+895,3,"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,,S
+945,1,"Fortune, Miss. Ethel Flora",female,28,3,2,19950,263,C23 C25 C27,S
+965,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C
+964,3,"Nieminen, Miss. Manta Josefina",female,29,0,0,3101297,7.925,,S
+898,3,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,,Q
+960,1,"Tucker, Mr. Gilbert Milligan Jr",male,31,0,0,2543,28.5375,C53,C
+953,2,"McCrae, Mr. Arthur Gordon",male,32,0,0,237216,13.5,,S
+967,1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C
+1215,1,"Rowe, Mr. Alfred G",male,33,0,0,113790,26.55,,S
+1082,2,"Angle, Mr. William A",male,34,1,0,226875,26,,S
+1098,3,"McGowan, Miss. Katherine",female,35,0,0,9232,7.75,,Q
+941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36,0,2,C.A. 37671,15.9,,S
+1152,3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,S
+1303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,1,0,19928,90,C78,Q
+1293,2,"Gale, Mr. Harry",male,38,1,0,28664,21,,S
+1307,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
+932,3,"Karun, Mr. Franz",male,39,0,1,349256,13.4167,,C
+1120,3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,S
+1137,1,"Kenyon, Mr. Frederick R",male,41,1,0,17464,51.8625,D21,S
+1020,2,"Bowenur, Mr. Solomon",male,42,0,0,211535,13,,S
+1296,1,"Frauenthal, Mr. Isaac Gerald",male,43,1,0,17765,27.7208,D40,C
+1265,2,"Harbeck, Mr. William H",male,44,0,0,248746,13,,S
+911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45,0,0,2696,7.225,,C
+1219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46,0,0,PC 17585,79.2,,C
+893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S
+1289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,1,1,13567,79.2,B41,C
+974,1,"Case, Mr. Howard Brown",male,49,0,0,19924,26,,S
+917,3,"Robins, Mr. Alexander A",male,50,1,0,A/5. 3337,14.5,,S
+1283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,0,1,PC 17592,39.4,D28,S
+1185,1,"Dodge, Dr. Washington",male,53,1,1,33638,81.8583,A34,S
+1069,1,"Stengel, Mr. Charles Emil Henry",male,54,1,0,11778,55.4417,C116,C
+912,1,"Rothschild, Mr. Martin",male,55,1,0,PC 17603,59.4,,C
+1279,2,"Ashby, Mr. John",male,57,0,0,244346,13,,S
+1235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,0,1,PC 17755,512.3292,B51 B53 B55,C
+1248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,2,0,11769,51.4792,C101,S
+1105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,1,0,24065,26,,S
+1044,3,"Storey, Mr. Thomas",male,60.5,0,0,3701,,,S
+1034,1,"Ryerson, Mr. Arthur Larned",male,61,1,3,PC 17608,262.375,B57 B59 B63 B66,C
+894,2,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,,Q
+905,2,"Howard, Mr. Benjamin",male,63,1,0,24065,26,,S
+1197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,1,1,112901,26.55,B26,S
+973,1,"Straus, Mr. Isidor",male,67,1,0,PC 17483,221.7792,C55 C57,S
+988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,1,0,19877,78.85,C46,S
