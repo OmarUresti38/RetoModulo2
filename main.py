@@ -9,8 +9,10 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
+
 data = pd.read_csv('Estatura-peso_HyM2.csv')
 
+# data from a dataset given in Estadistic module. The data is about weight and height divided by sex. We use the data from men.
 X = data['H_peso'].values
 Y = data['H_estat'].values
 
@@ -19,15 +21,6 @@ mean_x = np.mean(X)
 mean_y = np.mean(Y)
 
 m = len(X)
-
-#Modelo de Sklearn
-Xsl = X.reshape(m, 1)
-reg = LinearRegression()
-reg = reg.fit(Xsl,Y)
-
-Y_pred = reg.predict(Xsl)
-r2_square = reg.score(Xsl, Y)
-
 
 # using the formula to calculate m & c
 numer = 0
@@ -54,13 +47,13 @@ for i in range(int(len(x))): # val_count represents the no.of input x values
   ss_r += (Y[i] - y_pred) ** 2
 r2 = 1 - (ss_r/ss_t)
 
-print (f'r2 = {r2} \nr2sl = {r2_square}')
+print (f'r2 = {r2}')
 
 plt.plot(x, y, color='#58b970', label='Regression Line')
-plt.plot(Xsl, Y_pred, color = 'k', label = 'Sklearn RL')
 plt.scatter(X, Y, c='#ef5423', label='data points')
-
 plt.xlabel('Peso')
 plt.ylabel('Estatura')
+plt.xlim([50, 100])
 plt.legend()
 plt.show()
+
